@@ -1,6 +1,6 @@
 {
 	"name": "@aws-amplify/ui-angular",
-	"version": "0.4.21",
+	"version": "1.0.0",
 	"description": "Angular specific wrapper for @aws-amplify/ui-components",
 	"publishConfig": {
 		"access": "public"
